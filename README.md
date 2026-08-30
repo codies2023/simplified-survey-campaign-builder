@@ -127,6 +127,7 @@ simplified-survey-campaign-builder/
 
 ## Deployment
 
+Deployment link : https://simplified-survey-campaign-builder-rust.vercel.app/
 Build with `npm run build`, then deploy the generated `dist` folder to Vercel, Netlify, GitHub Pages (with Vite base configuration if needed), or another static host.
 
 
